@@ -1,0 +1,9 @@
+C:\Users\44784\Documents\CCQ\pythonTesting\pythonTesting\obj\Debug\netstandard2.1\pythonTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44784\Documents\CCQ\pythonTesting\pythonTesting\obj\Debug\netstandard2.1\pythonTesting.AssemblyInfoInputs.cache
+C:\Users\44784\Documents\CCQ\pythonTesting\pythonTesting\obj\Debug\netstandard2.1\pythonTesting.AssemblyInfo.cs
+C:\Users\44784\Documents\CCQ\pythonTesting\pythonTesting\obj\Debug\netstandard2.1\pythonTesting.csproj.CoreCompileInputs.cache
+C:\Users\44784\Documents\CCQ\pythonTesting\pythonTesting\bin\Debug\netstandard2.1\pythonTesting.deps.json
+C:\Users\44784\Documents\CCQ\pythonTesting\pythonTesting\bin\Debug\netstandard2.1\pythonTesting.dll
+C:\Users\44784\Documents\CCQ\pythonTesting\pythonTesting\bin\Debug\netstandard2.1\pythonTesting.pdb
+C:\Users\44784\Documents\CCQ\pythonTesting\pythonTesting\obj\Debug\netstandard2.1\pythonTesting.dll
+C:\Users\44784\Documents\CCQ\pythonTesting\pythonTesting\obj\Debug\netstandard2.1\pythonTesting.pdb
